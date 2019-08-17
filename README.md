@@ -1,2 +1,4 @@
 # GTestExample
-Quick configuration of GTest for CMake
+Nothing interesting here.\
+Just GTest configuration for CMake.\
+It is quicker to pull it from here.
